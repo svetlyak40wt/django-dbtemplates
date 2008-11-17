@@ -1,0 +1,7 @@
+syntax: glob
+*.db
+*.pyc
+*~
+dist/*
+.DS_Store
+MANIFEST
